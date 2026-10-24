@@ -1,0 +1,15 @@
+﻿__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 插件运行时数据：self.md / journal / history / report / data
+data/
+*.log
+
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
