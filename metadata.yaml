@@ -1,0 +1,8 @@
+﻿name: astrbot_plugin_voice_mode
+display_name: 按需语音
+desc: 默认不出声。消息里带关键词或发 /voice 指令时才用语音回复，说完自动关。
+version: 1.0.0
+author: MYZYMWYY
+repo: https://github.com/MYZYMWYY/astrbot-voice-mode
+support_platforms:
+  - aiocqhttp
